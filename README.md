@@ -1,58 +1,39 @@
-# 📦 Project Title
+# 👋 Hey there, this is Esther!
 
-A brief one-liner about your project.
+I'm a passionate **Junior Fullstack Developer** with experience building web applications using:
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- 🌐 HTML | CSS | JavaScript
+- ⚛️ React / Vue
+- 🛠️ Node.js | Express.js
+- 🗄️ MongoDB
+- 🧠 Learning Git, APIs, and Backend Authentication
 
 ---
 
-## 📖 About
+## 🚀 Projects
 
-Describe what your project is and why you made it.
+Here are a few projects I’ve worked on:
 
-Example:
-> This is a fullstack web application that allows users to track their daily expenses. Built to practice CRUD operations and user authentication.
-
----
-
-## 🚀 Features
-
-- User authentication (Login/Register)
-- Add, edit, delete items
-- Responsive design
-- Realtime database updates (optional)
+- 🧾 **Expense Tracker App** — Track daily expenses with login and dashboard  
+- 🛒 **E-commerce Clone** — Fullstack store with cart, login, admin panel  
+- 📊 **Produce Inventory System** — Built with Pug, Express, and MongoDB
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Currently Learning
 
-**Frontend:** HTML, CSS, JavaScript, [React/Vue], Bootstrap/Tailwind  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Templating (if any):** Pug, EJS
+- 🔐 Authentication (JWT, OAuth)
+- ⚡ Advanced React
+- 📱 Responsive Web Design
 
 ---
 
-## 🧰 Installation
+## 📫 Contact Me
 
-```bash
-# Clone the repo
-git clone https://github.com/your-username/your-repo.git
+- GitHub: [github.com/your-username](https://github.com/your-username)
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
-# Move into the directory
-cd your-repo
+---
 
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
+Thanks for visiting! 💖  
