@@ -31,8 +31,8 @@ Here are a few projects I’ve worked on:
 ## 📫 Contact Me
 
 - GitHub: [github.com/your-username](https://github.com/your-username)
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: nakunguesther044@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/esther-nakungu-41512a316/)
 
 ---
 
