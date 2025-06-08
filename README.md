@@ -1,39 +1,53 @@
-# 👋 Hey there, this is Esther!
+👋 Hi, I'm Esther!
+I'm a passionate Junior Fullstack Developer with hands-on experience building dynamic and user-friendly web applications. I love transforming ideas into functional digital products and continuously strive to learn and grow in the tech space.
 
-I'm a passionate **Junior Fullstack Developer** with experience building web applications using:
+💻 Tech Stack
+Frontend: HTML, CSS, JavaScript, React, Vue
 
-- 🌐 HTML | CSS | JavaScript
-- ⚛️ React / Vue
-- 🛠️ Node.js | Express.js
-- 🗄️ MongoDB
-- 🧠 Learning Git, APIs, and Backend Authentication
+Backend: Node.js, Express.js, PHP (beginner)
 
----
+Frameworks: Laravel (learning), Express
 
-## 🚀 Projects
+Database: MongoDB, MySQL
 
-Here are a few projects I’ve worked on:
+Other: Git, REST APIs, Postman
 
-- 🧾 **Expense Tracker App** — Track daily expenses with login and dashboard  
-- 🛒 **E-commerce Clone** — Fullstack store with cart, login, admin panel  
-- 📊 **Produce Inventory System** — Built with Pug, Express, and MongoDB
+Templating: Pug
 
----
+Currently Exploring: Backend Authentication, Product Management
 
-## 📚 Currently Learning
+🚀 Projects
+Here are some projects I’ve worked on:
 
-- 🔐 Authentication (JWT, OAuth)
-- ⚡ Advanced React
-- 📱 Responsive Web Design
+🧾 Expense Tracker App
+A personal finance tracker with user authentication and dashboard analytics.
 
----
+🛒 E-commerce Store Clone
+A fullstack online store with cart functionality, user login, and admin panel.
 
-## 📫 Contact Me
+📊 Produce Inventory System
+An inventory and stock management system built with Pug, Express, and MongoDB.
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- Email: nakunguesther044@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/esther-nakungu-41512a316/)
+💳 Payment Automation System
+Developed an automated system to handle payments efficiently.
 
----
+🎯 Currently Learning
 
-Thanks for visiting! 💖  
+
+🧱 Laravel & PHP: Building web apps with MVC structure
+
+
+
+📦 Product Management Fundamentals
+
+📫 Let's Connect
+💻 GitHub: github.com/your-username
+
+✉️ Email: nakunguesther044@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/esther-nakungu-41512a316
+
+
+Thanks for visiting my profile! 💖
+I'm always open to learning, collaborating, and building impactful products.
+Whether it's a new project, idea, or challenge — I'm excited to connect, grow, and create meaningful tech solutions together.
