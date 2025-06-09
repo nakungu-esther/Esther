@@ -46,12 +46,12 @@ Developed an automated system to handle transactions efficiently and securely.
 📦 Product Management Fundamentals – Understanding product lifecycle, user stories, and agile workflows.
 
 📫 Let's Connect!
+
 💻 GitHub: https://github.com/nakungu-esther
 
 ✉️ Email: nakunguesther044@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/esther-nakungu-41512a316
-
 
 
 💬 Final Note
