@@ -52,8 +52,8 @@ Highly motivated **Fullstack Developer** with proven ability to deliver function
 
 ### **Currently Mastering**  
 - **Laravel/PHP:** Building projects using MVC patterns  
-- **System Design:** Learning scalability principles  
-- **Agile Methods:** Implementing Scrum in personal projects  
+- **System Design:** Learning scalability principles   
+- **Product Management:** Developing roadmaps, user stories, and prioritization frameworks
 
 ### **Future Goals**  
 - Contribute to open source projects  
