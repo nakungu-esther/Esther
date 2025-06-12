@@ -62,14 +62,6 @@ Highly motivated **Fullstack Developer** with proven ability to deliver function
 
 ---
 
-<!-- ===== EDUCATION & FOUNDATION ===== -->
-## 🎓 **Education & Foundation**  
-- **BSc in Computer Science** – Makerere University  
-- **Online Certifications:**  
-  - Modern JavaScript (Udemy)  
-  - Fullstack Development (freeCodeCamp)  
-
----
 
 <!-- ===== CONTACT ===== -->
 ## 📫 **Let's Connect**  
