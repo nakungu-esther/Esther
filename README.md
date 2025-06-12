@@ -7,7 +7,7 @@
 Highly motivated **Fullstack Developer** with proven ability to deliver functional web applications using modern technologies. Demonstrates strong problem-solving skills and rapid learning ability, with a passion for creating efficient, user-friendly solutions. Combines technical skills with product awareness to contribute meaningfully to development teams.
 
 **Key Attributes:**  
-- **Fullstack Proficiency** (JavaScript, Node.js, PHP/Laravel)  
+- **Fullstack Proficiency** (JavaScript, Node.js)  
 - **Quick Learner** (Mastered 3 new frameworks in past year)  
 - **Team Player** (Collaborative approach to development)  
 - **Quality Focus** (Emphasis on clean code and best practices)  
@@ -20,32 +20,25 @@ Highly motivated **Fullstack Developer** with proven ability to deliver function
 | **Category**       | **Technologies**                                  |
 |--------------------|--------------------------------------------------|
 | **Frontend**       | React, Vue.js, JavaScript (ES6+), HTML5/CSS3     |
-| **Backend**        | Node.js, Express, PHP, Laravel (Learning)       |
+| **Backend**        | Node.js, Express, PHP(learning), Laravel (Learning)       |
 | **Databases**      | MongoDB, MySQL                                   |
 | **Tools**          | Git, Postman, REST APIs, Pug                     |
 | **Concepts**       | MVC Architecture, Agile Basics                   |
 
 ---
-
 <!-- ===== PROJECT EXPERIENCE ===== -->
 ## 🔨 **Project Highlights**  
 
-### **📊 Expense Tracker Application** *(Fullstack Project)*  
-- Implemented **user authentication** and data visualization for personal finance management  
-- **Achievement:** Reduced initial load time by 30% through query optimization  
-- **Stack:** React, Node.js, Express, MongoDB  
 
-### **🛒 E-Commerce Clone** *(Learning Project)*  
-- Developed complete store functionality including **shopping cart** and admin panel  
-- **Achievement:** Successfully implemented secure payment gateway integration  
-- **Stack:** Vue.js, Express, MySQL  
+### **💳 Payment Automation System** *(Internship Project)*  
+- Designed and implemented automated payment workflows and reporting tools  
+- **Achievement:** Reduced manual processing time by over 40%  
+- **Stack:** React, PostgreSQL, node js, Tailwind CSS  
 
-### **📦 Inventory System** *(Freelance Project)*  
+### **📦 Inventory System** *(Learning Project)*  
 - Created real-time tracking system for small business client  
 - **Achievement:** Delivered project 2 weeks ahead of deadline  
-- **Stack:** Pug, Express, MongoDB  
-
----
+- **Stack:** node js, Express, Pug, MongoDB,  CSS  
 
 <!-- ===== LEARNING & GROWTH ===== -->
 ## 📈 **Growth Trajectory**  
