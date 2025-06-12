@@ -1,7 +1,9 @@
 Esther Nakungu
+
 Junior Fullstack Developer
 
 👋 About Me
+
 Passionate Junior Fullstack Developer with hands-on experience designing and building dynamic, user-centric web applications. Adept at transforming conceptual ideas into scalable, functional digital solutions. Committed to continuous learning and growth in software development, with a strong focus on clean code, efficient problem-solving, and delivering impactful user experiences.
 
 💻 Technical Skills
@@ -19,9 +21,11 @@ Databases:
 MongoDB • MySQL
 
 Tools & Technologies:
+
 Git & Version Control • RESTful APIs • Postman • Pug (Templating Engine)
 
 Areas of Exploration:
+
 Product Management Fundamentals • Agile Methodologies
 
 🚀 Projects & Contributions
