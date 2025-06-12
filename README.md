@@ -59,7 +59,7 @@ Highly motivated **Fullstack Developer** with proven ability to deliver function
 <!-- ===== CONTACT ===== -->
 ## 📫 **Let's Connect**  
 - **GitHub:** [github.com/nakungu-esther](https://github.com/nakungu-esther) *(Showcasing 10+ repositories)*  
-- **LinkedIn:** [linkedin.com/in/esther-nakungu](...)  
+- **LinkedIn:** [https://www.linkedin.com/in/esther-nakungu-41512a316/](...)  
 - **Portfolio:** [https://portifolio-personal-xi.vercel.app/](...) 
 
 > **"Building today's skills to solve tomorrow's challenges."**  
