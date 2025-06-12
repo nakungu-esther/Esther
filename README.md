@@ -21,7 +21,7 @@ Templating Engine:
 Pug
 
 Currently Exploring:
-Backend Authentication • Product Management
+ • Product Management
 
 🚀 Projects
 🧾 Expense Tracker App
