@@ -72,3 +72,78 @@ LinkedIn: linkedin.com/in/esther-nakungu-41512a316
 Thank you for reviewing my profile! I am actively seeking opportunities to collaborate, contribute, and grow within innovative tech environments. Whether it's a challenging project, a new idea, or a problem to solve—I’d love to connect and create meaningful solutions together.
 
 Let’s build the future, one line of code at a time!
+<!-- ===== HEADER ===== -->
+# **Esther Nakungu**  
+#### **Junior Fullstack Developer**  
+
+<!-- ===== ABOUT ME ===== -->
+## 👋 **About Me**  
+Passionate Junior Fullstack Developer with hands-on experience designing and building dynamic, user-centric web applications. Adept at transforming conceptual ideas into scalable, functional digital solutions. Committed to continuous learning and growth in software development, with a strong focus on clean code, efficient problem-solving, and delivering impactful user experiences.  
+
+---
+
+<!-- ===== TECHNICAL SKILLS ===== -->
+## 💻 **Technical Skills**  
+
+### **Frontend Development:**  
+- HTML5 • CSS3 • JavaScript (ES6+)  
+- React • Vue.js  
+
+### **Backend Development:**  
+- Node.js • Express.js  
+- PHP (Basic Proficiency)  
+
+### **Frameworks & Libraries:**  
+- Express • Laravel (*Learning*)  
+
+### **Databases:**  
+- MongoDB • MySQL  
+
+### **Tools & Technologies:**  
+- Git & Version Control  
+- RESTful APIs • Postman  
+- Pug (Templating Engine)  
+
+### **Exploring:**  
+- Product Management Fundamentals  
+- Agile Methodologies  
+
+---
+
+<!-- ===== PROJECTS ===== -->
+## 🚀 **Projects**  
+
+### **📊 Expense Tracker Application**  
+- Developed a full-stack personal finance tool with user authentication and analytics.  
+- **Tech:** React, Node.js, Express, MongoDB  
+
+### **🛒 E-Commerce Store Clone**  
+- Built a functional store with shopping cart, user login, and admin panel.  
+- **Tech:** Vue.js, Express, MySQL  
+
+### **📦 Inventory Management System**  
+- Stock tracking system for produce with real-time updates.  
+- **Tech:** Pug, Express, MongoDB  
+
+### **💳 Payment Automation System**  
+- Engineered a secure transaction processing system.  
+- **Tech:** Node.js, Express, REST API  
+
+---
+
+<!-- ===== CURRENT LEARNING ===== -->
+## 📚 **Currently Learning**  
+- **Laravel & PHP:** Building MVC-based web applications.  
+- **Product Management:** User stories, Agile workflows.  
+
+---
+
+<!-- ===== CONTACT ===== -->
+## 📫 **Connect With Me**  
+- **GitHub:** [github.com/nakungu-esther](https://github.com/nakungu-esther)  
+- **Email:** nakunguesther044@gmail.com  
+- **LinkedIn:** [linkedin.com/in/esther-nakungu-41512a316](linkedin.com/in/esther-nakungu-41512a316)  
+
+<!-- ===== FOOTER ===== -->
+> 🌟 **Let’s collaborate!** Open to new opportunities, projects, and tech discussions.  
+> *"Code is poetry."*  
