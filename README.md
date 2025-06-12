@@ -1,60 +1,70 @@
-👋 Hi, I'm Esther!
-I'm a passionate Junior Fullstack Developer with hands-on experience building dynamic, user-friendly web applications. I enjoy transforming ideas into functional digital products and continuously strive to grow and evolve in the tech world.
+Esther Nakungu
+Junior Fullstack Developer
 
-💻 Tech Stack
-Frontend:
-HTML • CSS • JavaScript • React • Vue
+👋 About Me
+Passionate Junior Fullstack Developer with hands-on experience designing and building dynamic, user-centric web applications. Adept at transforming conceptual ideas into scalable, functional digital solutions. Committed to continuous learning and growth in software development, with a strong focus on clean code, efficient problem-solving, and delivering impactful user experiences.
 
-Backend:
-Node.js • Express.js • PHP (Beginner)
+💻 Technical Skills
 
-Frameworks:
-Laravel (Learning) • Express
+Frontend Development:
+HTML5 • CSS3 • JavaScript (ES6+) • React • Vue.js
 
-Database:
+Backend Development:
+Node.js • Express.js • PHP (Basic Proficiency)
+
+Frameworks & Libraries:
+Express • Laravel (Currently Learning)
+
+Databases:
 MongoDB • MySQL
 
-Other Tools:
-Git • REST APIs • Postman
+Tools & Technologies:
+Git & Version Control • RESTful APIs • Postman • Pug (Templating Engine)
 
-Templating Engine:
-Pug
+Areas of Exploration:
+Product Management Fundamentals • Agile Methodologies
 
-Currently Exploring:
- • Product Management
+🚀 Projects & Contributions
 
-🚀 Projects
-🧾 Expense Tracker App
+📊 Expense Tracker Application
 
-A personal finance tracker with user authentication and dashboard analytics.
+Developed a full-stack personal finance management tool with user authentication, dashboard analytics, and transaction history.
 
-🛒 E-commerce Store Clone
+Tech Stack: React, Node.js, Express, MongoDB
 
-A fullstack store featuring shopping cart functionality, user login, and an admin panel.
+🛒 E-Commerce Store Clone
 
-📊 Produce Inventory System
+Built a functional e-commerce platform with shopping cart functionality, user authentication, and an admin dashboard.
 
-An inventory and stock management app built with Pug, Express, and MongoDB.
+Tech Stack: Vue.js, Express, MySQL
+
+📦 Inventory Management System
+
+Created a stock tracking system for produce inventory with real-time updates and reporting.
+
+Tech Stack: Pug, Express, MongoDB
 
 💳 Payment Automation System
 
-Developed an automated system to handle transactions efficiently and securely.
+Engineered a secure transaction processing system to streamline payment workflows.
 
-🎯 Currently Learning
-🧱 Laravel & PHP – Building modern web applications using the MVC architecture.
+Tech Stack: Node.js, Express, REST API
 
-📦 Product Management Fundamentals – Understanding product lifecycle, user stories, and agile workflows.
+📚 Continuous Learning
 
-📫 Let's Connect!
+Laravel & PHP: Enhancing backend development skills using MVC architecture.
 
-💻 GitHub: https://github.com/nakungu-esther
+Product Management: Studying product lifecycle, user story mapping, and Agile methodologies.
 
-✉️ Email: nakunguesther044@gmail.com
+📫 Connect With Me
 
-🔗 LinkedIn: linkedin.com/in/esther-nakungu-41512a316
+GitHub: github.com/nakungu-esther
 
+Email: nakunguesther044@gmail.com
 
-💬 Final Note
-Thanks for visiting my profile! 💖
-I'm always open to learning, collaborating, and building impactful products.
-Whether it’s a new project, idea, or challenge — I’m excited to connect, grow, and create meaningful tech solutions together.
+LinkedIn: linkedin.com/in/esther-nakungu-41512a316
+
+🌟 Final Note
+Thank you for reviewing my profile! I am actively seeking opportunities to collaborate, contribute, and grow within innovative tech environments. Whether it's a challenging project, a new idea, or a problem to solve—I’d love to connect and create meaningful solutions together.
+
+Let’s build the future, one line of code at a time!
